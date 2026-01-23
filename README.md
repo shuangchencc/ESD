@@ -22,9 +22,11 @@ You can download the demo scripts and sample data from Google Drive (https://dri
 
 # 📂 Data Access
 The ESD product is organized by year and adheres to the UTM-based Military Grid Reference System (MGRS) tiling convention (3600 × 3600 pixels per tile).
-- **Data Portal:** iEarth platform - https://data-starcloud.pcl.ac.cn/resource/64
+- **Data Portal:** iEarth platform - https://data-starcloud.pcl.ac.cn/iearthdata/64
 - **DOI:** [10.12436/iEarth.0000.20251229.000064.v1](https://doi.org/10.12436/iEarth.0000.20251229.000064.v1)
 - **Credentials:** shuangchen / SDC@2024test
+
+* P.S. 如果下载不够快或需要数据量大，可以联系我提供硬盘寄送
 
 # 📝 Citation
 If you use this dataset or code in your research, please cite:
